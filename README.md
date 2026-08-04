@@ -1,4 +1,8 @@
 <div align="center">
+  hello, i'm Top.
+</div>
+
+<div align="center">
   <p><b><i>i like computers.</i></b></p>
 </div>
 
