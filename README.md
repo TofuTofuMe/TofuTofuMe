@@ -9,7 +9,7 @@
 <div align="center">
   <p>I'm a Software Engineer. I make stuff.
 
-  <div align="justify">
+  <div align="center">
   Checking out my profile, huh? Hope whatever you see piques your interest <i>: -)</i>
 </div>
 
