@@ -8,6 +8,11 @@
 
 <div align="center">
   <p>I'm a Software Engineer. I make stuff.
+
+  <div align="justify">
+  Checking out my profile, huh? Hope whatever you see piques your interest <i>: -)</i>
+</div>
+
 </div>
 
 <div align="center">
