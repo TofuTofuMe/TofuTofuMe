@@ -1,5 +1,5 @@
 <div align="center">
-  hello, i'm Top.
+  hello, i'm <strong>Top</strong>.
 </div>
 
 <div align="center">
